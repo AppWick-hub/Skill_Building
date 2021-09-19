@@ -14,6 +14,8 @@ Here I am going to upload all the materials related to R, Python and shell scrip
 - https://socviz.co/
 ### ISLR TidyModels Lab
 - https://emilhvitfeldt.github.io/ISLR-tidymodels-labs/index.html
+### Fundamentals of Data Visualization
+- https://clauswilke.com/dataviz/
 
 # Computational Genomics and Bioinformatics Resources
 ### Computational Genomics using R
@@ -24,4 +26,6 @@ Here I am going to upload all the materials related to R, Python and shell scrip
 - https://learn.gencore.bio.nyu.edu/
 ### UCLA-Applied Bioinfo course
 - https://qcb.ucla.edu/collaboratory/workshops/
+### Data wrangling and Processing for Genomics
+- https://datacarpentry.org/wrangling-genomics/
 
