@@ -4,6 +4,8 @@ Here I am going to upload all the materials related to R, Python and shell scrip
 Also I will update here about some courses to take to learn the mentioned topics using R and Python completely.
 
 # 1. R Matrials (Free html Books) ~To explore and analyse any kind of data (in General) using R
+### Exploring, Visualizing, and Modeling Big Data with R
+- https://okanbulut.github.io/bigdata/
 ### Learning Statistics with R
 - https://learningstatisticswithr.com/book/
 ### Big Book of R
