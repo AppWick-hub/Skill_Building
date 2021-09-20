@@ -22,6 +22,8 @@ Also I will update here about some courses to take to learn the mentioned topics
 - https://clauswilke.com/dataviz/
 
 # 2. Computational Genomics and Bioinformatics Resources
+### Getting started with Genomics tools and resources 
+- https://github.com/crazyhottommy/getting-started-with-genomics-tools-and-resources?s=03 (A useful site for a bunce of materials)
 ### Computational Genomics using R
 - http://compgenomr.github.io/book/
 ### Applied Computational Genomics-Quinlan Lab
