@@ -8,6 +8,9 @@ Also I will update here about some courses to take to learn the mentioned topics
 - https://okanbulut.github.io/bigdata/
 ### Learning Statistics with R
 - https://learningstatisticswithr.com/book/
+### Learn Data Science (freeCodeCamp.org)
+- https://datalab.cc/#welcome/ready
+- https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ
 ### Big Book of R
 - https://www.bigbookofr.com/index.html 
 ### R for Data Science
