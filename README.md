@@ -40,9 +40,15 @@ Also I will update here about some courses to take to learn the mentioned topics
 - https://datacarpentry.org/wrangling-genomics/
 
 # 3. Python Matrials (Free html Books) ~To explore and analyse any kind of data (in General) using Python
+### Python Data Science Handbook
+- https://jakevdp.github.io/PythonDataScienceHandbook/
 
-## Further one can take the following courses to learn data science using R and Python
+# 4. Further one can take the following courses to learn data science using R and Python
 
 - https://www.coursera.org/professional-certificates/google-data-analytics 
 - https://www.coursera.org/professional-certificates/ibm-data-analyst
 - https://www.youtube.com/c/GreatLearningOfficial
+- https://www.fast.ai/
+
+# 5. Some Blogs to follow:
+- https://towardsdatascience.com/what-i-learned-from-writing-a-data-science-article-every-week-for-a-year-201c0357e0ce
