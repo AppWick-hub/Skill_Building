@@ -42,6 +42,16 @@ Also I will update here about some courses to take to learn the mentioned topics
 # 3. Python Matrials (Free html Books) ~To explore and analyse any kind of data (in General) using Python
 ### Python Data Science Handbook
 - https://jakevdp.github.io/PythonDataScienceHandbook/
+### Extracting data from vcf
+- http://alimanfoo.github.io/2017/06/14/read-vcf.html
+### A tour of scikit-allele
+- http://alimanfoo.github.io/2016/06/10/scikit-allel-tour.html
+- http://alimanfoo.github.io/2015/09/15/introducing-scikit-allel.html
+### Selecting variants and samples
+- http://alimanfoo.github.io/2018/04/09/selecting-variants.html
+### Fast PCA
+- http://alimanfoo.github.io/2015/09/28/fast-pca.html
+
 
 # 4. Further one can take the following courses to learn data science using R and Python
 
