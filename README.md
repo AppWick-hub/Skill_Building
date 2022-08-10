@@ -40,6 +40,8 @@ Also I will update here about some courses to take to learn the mentioned topics
 - https://qcb.ucla.edu/collaboratory/workshops/
 ### Data wrangling and Processing for Genomics
 - https://datacarpentry.org/wrangling-genomics/
+### Bioinformatics and Computational Biology Course-Shirley Liu (Havard University)
+- https://liulab-dfci.github.io/bioinfo-combio/?s=03
 
 # 3. Python Matrials (Free html Books) ~To explore and analyse any kind of data (in General) using Python
 ### Python Data Science Handbook
@@ -55,7 +57,7 @@ Also I will update here about some courses to take to learn the mentioned topics
 - http://alimanfoo.github.io/2015/09/28/fast-pca.html
 
 
-# 4. Further one can take the following courses to learn data science using R and Python
+# 4. One can take the following courses to learn data science using R and Python
 
 - https://www.coursera.org/professional-certificates/google-data-analytics 
 - https://www.coursera.org/professional-certificates/ibm-data-analyst
