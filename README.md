@@ -25,6 +25,8 @@ Also I will update here about some courses to take to learn the mentioned topics
 - https://clauswilke.com/dataviz/
 
 # 2. Computational Genomics and Bioinformatics Resources
+### Bioinformatics-Harvard TH CHAN
+- https://github.com/hbctraining
 ### Getting started with Genomics tools and resources 
 - https://github.com/crazyhottommy/getting-started-with-genomics-tools-and-resources?s=03 (A useful site for a bunce of materials)
 ### Computer Science with Biology/Bioinformatics
@@ -59,6 +61,7 @@ Also I will update here about some courses to take to learn the mentioned topics
 
 # 4. One can take the following courses to learn data science using R and Python
 
+- https://github.com/sib-swiss/training-collection
 - https://www.coursera.org/professional-certificates/google-data-analytics 
 - https://www.coursera.org/professional-certificates/ibm-data-analyst
 - https://www.youtube.com/c/GreatLearningOfficial
