@@ -25,6 +25,8 @@ Also I will update here about some courses to take to learn the mentioned topics
 - https://clauswilke.com/dataviz/
 
 # 2. Computational Genomics and Bioinformatics Resources
+### Bioinformatics One liners
+- https://github.com/stephenturner/oneliners?s=03
 ### Bioinformatics-Harvard TH CHAN
 - https://github.com/hbctraining
 ### Getting started with Genomics tools and resources 
