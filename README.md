@@ -25,6 +25,8 @@ Also I will update here about some courses to take to learn the mentioned topics
 - https://clauswilke.com/dataviz/
 
 # 2. Computational Genomics and Bioinformatics Resources
+### GWAS course with R-University of Helsinki
+- https://www.mv.helsinki.fi/home/mjxpirin/GWAS_course/
 ### Bioinformatics One liners
 - https://github.com/stephenturner/oneliners?s=03
 ### Bioinformatics-Harvard TH CHAN
