@@ -48,6 +48,8 @@ Also I will update here about some courses to take to learn the mentioned topics
 - https://datacarpentry.org/wrangling-genomics/
 ### Bioinformatics and Computational Biology Course-Shirley Liu (Havard University)
 - https://liulab-dfci.github.io/bioinfo-combio/?s=03
+### Automated WES/WGS pipeline for rare disease
+- https://github.com/nf-core/raredisease
 
 # 3. Python Matrials (Free html Books) ~To explore and analyse any kind of data (in General) using Python
 ### Python Data Science Handbook
