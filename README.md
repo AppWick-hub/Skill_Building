@@ -1,9 +1,9 @@
 # Introduction
-Here I am going to upload all the materials related to R, Python and shell scripting with respect to working on Bioinformatics and diverse area of Statistics (Geospatial analysis+Machine learning+Deep Learning). With the increasing amount of data, its very important to learn the cloud computing and data management in server (which is not covered here but, it would be useful if one can learn these skills side by side). 
+Here I am going to upload all the materials related to R, Python, and shell scripting with respect to working on Bioinformatics and diverse areas of Statistics (Geospatial analysis+Machine learning+Deep Learning). 
 
-Also I will update here about some courses to take to learn the mentioned topics using R and Python completely.
+Also, I will update here about some courses to take to learn the mentioned topics using R and Python completely.
 
-# 1. R Matrials (Free html Books) ~To explore and analyse any kind of data (in General) using R
+# 1. R Materials (Free html Books) ~To explore and analyse any data (in General) using R
 ### Exploring, Visualizing, and Modeling Big Data with R
 - https://okanbulut.github.io/bigdata/
 ### Learning Statistics with R
@@ -27,7 +27,7 @@ Also I will update here about some courses to take to learn the mentioned topics
 # 2. Computational Genomics and Bioinformatics Resources
 ### GWAS course with R-University of Helsinki
 - https://www.mv.helsinki.fi/home/mjxpirin/GWAS_course/
-### Bioinformatics One liners
+### Bioinformatics One-liners
 - https://github.com/stephenturner/oneliners?s=03
 ### Bioinformatics-Harvard TH CHAN
 - https://github.com/hbctraining
@@ -51,7 +51,7 @@ Also I will update here about some courses to take to learn the mentioned topics
 ### Automated WES/WGS pipeline for rare disease
 - https://github.com/nf-core/raredisease
 
-# 3. Python Matrials (Free html Books) ~To explore and analyse any kind of data (in General) using Python
+# 3. Python Materials (Free html Books) ~To explore and analyze any kind of data (in General) using Python
 ### Python Data Science Handbook
 - https://jakevdp.github.io/PythonDataScienceHandbook/
 ### Extracting data from vcf
