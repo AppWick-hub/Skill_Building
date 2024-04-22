@@ -1,12 +1,10 @@
 # Introduction
-Here I am going to upload all the materials related to R, Python, and shell scripting with respect to working on Bioinformatics and diverse areas of Statistics (Geospatial analysis+Machine learning+Deep Learning). 
-
-Also, I will update here about some courses to take to learn the mentioned topics using R and Python completely.
+Here I am going to upload all the materials related to R, Python, and shell scripting with respect to working on genomics+Bioinformatics and diverse areas of Statistics (Geospatial analysis+Machine learning+Deep Learning). 
 
 # Basic Genetics/Genomics and GWAS
 ### GWAS course with R-University of Helsinki
 - https://www.mv.helsinki.fi/home/mjxpirin/GWAS_course/
-# Intro to human population genetics, variantion and disease
+### Intro to human population genetics, variantion and disease
 - https://web.stanford.edu/group/pritchardlab/HGbook.html?s=03
 # R Materials (Free html Books) ~To explore and analyse any data (in General) using R
 ### Exploring, Visualizing, and Modeling Big Data with R
