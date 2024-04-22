@@ -3,7 +3,12 @@ Here I am going to upload all the materials related to R, Python, and shell scri
 
 Also, I will update here about some courses to take to learn the mentioned topics using R and Python completely.
 
-# 1. R Materials (Free html Books) ~To explore and analyse any data (in General) using R
+# Basic Genetics/Genomics and GWAS
+### GWAS course with R-University of Helsinki
+- https://www.mv.helsinki.fi/home/mjxpirin/GWAS_course/
+# Intro to human population genetics, variantion and disease
+- https://web.stanford.edu/group/pritchardlab/HGbook.html?s=03
+# R Materials (Free html Books) ~To explore and analyse any data (in General) using R
 ### Exploring, Visualizing, and Modeling Big Data with R
 - https://okanbulut.github.io/bigdata/
 ### Learning Statistics with R
@@ -24,9 +29,7 @@ Also, I will update here about some courses to take to learn the mentioned topic
 ### Fundamentals of Data Visualization
 - https://clauswilke.com/dataviz/
 
-# 2. Computational Genomics and Bioinformatics Resources
-### GWAS course with R-University of Helsinki
-- https://www.mv.helsinki.fi/home/mjxpirin/GWAS_course/
+# Computational Genomics and Bioinformatics Resources
 ### Bioinformatics One-liners
 - https://github.com/stephenturner/oneliners?s=03
 ### Bioinformatics-Harvard TH CHAN
@@ -51,7 +54,7 @@ Also, I will update here about some courses to take to learn the mentioned topic
 ### Automated WES/WGS pipeline for rare disease
 - https://github.com/nf-core/raredisease
 
-# 3. Python Materials (Free html Books) ~To explore and analyze any kind of data (in General) using Python
+# Python Materials (Free html Books) ~To explore and analyze any kind of data (in General) using Python
 ### Python Data Science Handbook
 - https://jakevdp.github.io/PythonDataScienceHandbook/
 ### Extracting data from vcf
@@ -64,14 +67,12 @@ Also, I will update here about some courses to take to learn the mentioned topic
 ### Fast PCA
 - http://alimanfoo.github.io/2015/09/28/fast-pca.html
 
-
-# 4. One can take the following courses to learn data science using R and Python
-
+# More courses to learn data science using R and Python
 - https://github.com/sib-swiss/training-collection
 - https://www.coursera.org/professional-certificates/google-data-analytics 
 - https://www.coursera.org/professional-certificates/ibm-data-analyst
 - https://www.youtube.com/c/GreatLearningOfficial
 - https://www.fast.ai/
 
-# 5. Some Blogs to follow:
+# Some Blogs to follow:
 - https://towardsdatascience.com/what-i-learned-from-writing-a-data-science-article-every-week-for-a-year-201c0357e0ce
